@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource front-end projects and web development challeges.
 - 📫 How to reach me  GitHub => https://github.com/Tenthen
                       Email  => tenthentrino@gmail.com
-                      Linkedin => www.linkedin.com/in/tenthen-trino-1a341a2bb  
+                      Linkedin => www.linkedin.com/in/tenthen-trino  
 - ⚡ Fun fact: I'm diving deep into Linux and hacking while mastering front-end development.
 
 <!---
